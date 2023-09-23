@@ -5,6 +5,12 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CudaRuntime1", "CudaRuntime1\CudaRuntime1.vcxproj", "{AB46A0A5-00F5-41D6-8C06-A196A2160DF3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Reduction", "Reduction\Reduction.vcxproj", "{464C487D-AC1B-4FB6-B6B9-FE6822B9A961}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Multiplication", "Multiplication\Multiplication.vcxproj", "{D8A50EE0-22DE-450C-8A84-D76CEE10313F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Convolution", "Convolution\Convolution.vcxproj", "{76DEDEC4-A922-445E-9EED-F8F8871A4532}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -15,6 +21,18 @@ Global
 		{AB46A0A5-00F5-41D6-8C06-A196A2160DF3}.Debug|x64.Build.0 = Debug|x64
 		{AB46A0A5-00F5-41D6-8C06-A196A2160DF3}.Release|x64.ActiveCfg = Release|x64
 		{AB46A0A5-00F5-41D6-8C06-A196A2160DF3}.Release|x64.Build.0 = Release|x64
+		{464C487D-AC1B-4FB6-B6B9-FE6822B9A961}.Debug|x64.ActiveCfg = Debug|x64
+		{464C487D-AC1B-4FB6-B6B9-FE6822B9A961}.Debug|x64.Build.0 = Debug|x64
+		{464C487D-AC1B-4FB6-B6B9-FE6822B9A961}.Release|x64.ActiveCfg = Release|x64
+		{464C487D-AC1B-4FB6-B6B9-FE6822B9A961}.Release|x64.Build.0 = Release|x64
+		{D8A50EE0-22DE-450C-8A84-D76CEE10313F}.Debug|x64.ActiveCfg = Debug|x64
+		{D8A50EE0-22DE-450C-8A84-D76CEE10313F}.Debug|x64.Build.0 = Debug|x64
+		{D8A50EE0-22DE-450C-8A84-D76CEE10313F}.Release|x64.ActiveCfg = Release|x64
+		{D8A50EE0-22DE-450C-8A84-D76CEE10313F}.Release|x64.Build.0 = Release|x64
+		{76DEDEC4-A922-445E-9EED-F8F8871A4532}.Debug|x64.ActiveCfg = Debug|x64
+		{76DEDEC4-A922-445E-9EED-F8F8871A4532}.Debug|x64.Build.0 = Debug|x64
+		{76DEDEC4-A922-445E-9EED-F8F8871A4532}.Release|x64.ActiveCfg = Release|x64
+		{76DEDEC4-A922-445E-9EED-F8F8871A4532}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
