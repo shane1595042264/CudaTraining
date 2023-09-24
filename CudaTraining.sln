@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Multiplication", "Multiplic
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Convolution", "Convolution\Convolution.vcxproj", "{76DEDEC4-A922-445E-9EED-F8F8871A4532}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DeepLearning Inference", "DeepLearning Inference\DeepLearning Inference.vcxproj", "{F8F2296F-8D08-4E25-A27E-3A3E70220A23}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -33,6 +35,10 @@ Global
 		{76DEDEC4-A922-445E-9EED-F8F8871A4532}.Debug|x64.Build.0 = Debug|x64
 		{76DEDEC4-A922-445E-9EED-F8F8871A4532}.Release|x64.ActiveCfg = Release|x64
 		{76DEDEC4-A922-445E-9EED-F8F8871A4532}.Release|x64.Build.0 = Release|x64
+		{F8F2296F-8D08-4E25-A27E-3A3E70220A23}.Debug|x64.ActiveCfg = Debug|x64
+		{F8F2296F-8D08-4E25-A27E-3A3E70220A23}.Debug|x64.Build.0 = Debug|x64
+		{F8F2296F-8D08-4E25-A27E-3A3E70220A23}.Release|x64.ActiveCfg = Release|x64
+		{F8F2296F-8D08-4E25-A27E-3A3E70220A23}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
