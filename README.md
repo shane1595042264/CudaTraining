@@ -1,4 +1,4 @@
-🚀 CUDA Projects for NVIDIA Internship Application
+🚀 CUDA Projects
 ==================================================
 
 📝 This repository contains a series of CUDA projects demonstrating parallel programming skills. The projects illustrate fundamental GPU programming concepts and operations essential for high-performance data processing.
